@@ -2,7 +2,8 @@
 <h3 align="center">A passionate frontend developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketsingh13&label=Profile%20views&color=0e75b6&style=flat" alt="aniketsingh13" /> </p>
-- 🔭 I’m currently building **React projects**
+
+- 🔭 I’m currently building **React Projects**
 
 - 🌱 I’m currently learning **JS,REACT**
 
