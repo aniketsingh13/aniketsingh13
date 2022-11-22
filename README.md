@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketsingh13&label=Profile%20views&color=0e75b6&style=flat" alt="aniketsingh13" /> </p>
 
-- 🔭 I’m currently building **React Projects**
-
-- 🌱 I’m currently learning **JS,REACT**
+- 🌱 I’m currently learning **Test,Typescript,webpack**
 
 - 👨‍💻 All of my projects are available at [https://aniketsingh-portfolio.netlify.app/](https://aniketsingh-portfolio.netlify.app/)
 
